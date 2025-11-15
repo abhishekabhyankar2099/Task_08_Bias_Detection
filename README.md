@@ -7,7 +7,7 @@ This repository contains my submission for **Research Task 08: Detecting Bias in
 
 
 ## How to Reproduce
-1. Use any LLM interface (ChatGPT, Claude) and paste prompts from the `prompts/` folder.  
+1. Use any LLM interface (ChatGPT, Claude) and paste prompts from the report  
 2. Insert the anonymized dataset block when prompted.  
 3. Compare outputs across framing conditions as outlined in the report.
 
